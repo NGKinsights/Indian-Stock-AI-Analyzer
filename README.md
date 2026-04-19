@@ -22,3 +22,5 @@ A full-stack application built to bridge the gap between complex financial data 
 2. Install dependencies: `pip install -r requirements.txt`
 3. Set your Groq API key in the script.
 4. Run the app: `streamlit run stock_sentiment.py`
+
+![Demo Video](https://drive.google.com/file/d/11Wpv7asiBTM2QTEnXW87DCgz4Z48XqpE/view?usp=drive_link)
